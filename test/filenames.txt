@@ -1,0 +1,3 @@
+fileOfUpperData.txt
+fileOfSentences.txt
+fileOfSortedData.txt
